@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Classic Blue Tee",
+    "size": ["M","L","XL"],
+    "color": ["Blue","Red","White"]
+  },
+  {
+    "name": "Striped Polo Shirt",
+     "size": ["M","L","XL"],
+    "color": ["Blue","Red","White"]
+  },
+  {
+    "name": "V-Neck Cotton Top",
+    "size": ["M","L","XL"],
+    "color": ["Blue","Red","White"]
+  },
+  {
+    "name": "Casual Striped Shirt",
+     "size": ["M","L","XL"],
+    "color": ["Blue","Red","White"]
+  },
+  {
+    "name": "Slim Fit White Shirt",
+     "size": ["M","L","XL"],
+    "color": ["Blue","Red","White"]
+  },
+  {
+    "name": "Floral Print Blouse",
+     "size": ["M","L","XL"],
+    "color": ["Blue","Red","White"]
+  },
+  {
+    "name": "Plaid Flannel Shirt",
+     "size": ["M","L","XL"],
+    "color": ["Blue","Red","White"]
+  }
+]
